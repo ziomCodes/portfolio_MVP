@@ -32,3 +32,5 @@ Make your changes.
 Commit your changes (git commit -m "Add new feature").
 Push to the branch (git push origin feature/improvement).
 Create a new pull request.
+
+![Capture](https://github.com/ziomCodes/portfolio_MVP/assets/111242908/928d5050-163d-49e2-a592-4111056fc5e4)
